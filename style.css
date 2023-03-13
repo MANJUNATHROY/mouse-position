@@ -1,0 +1,20 @@
+body{
+    height:100vh;
+    background: linear-gradient(#ab9dff 50%,#fff 50%);
+    margin: 0%;
+}
+.output{
+    background: #fff;
+    padding: 50px 30px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+}
+.output div{
+    margin: 15px 25px;
+    color: #7861f8;
+}
